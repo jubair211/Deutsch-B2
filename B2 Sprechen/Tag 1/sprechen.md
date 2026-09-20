@@ -1,6 +1,6 @@
 # B2 Sprechen - Tag 1
 
-       ----Teil 1: Sich Vorstellung ----
+     ----Teil 1: Sich Vorstellung ----
 
 Prüferin: Herzlich willkommen zur B1 mündliche Prüfung. Mein Name ist Sonja Müller, Ich bin die Prüferin. Heute haben Sie die mündliche Prüfung. Die mündliche Prüfung besteht aus drei Teilen. Und wir beginnen mit dem ersten Teil, mit der Vorstellung. Maria, würden Sie sich bitte vorstellen?
 
@@ -21,119 +21,71 @@ Maria: Berlin ist eine tolle Stadt, weil sie so bunt und lebendig ist.
 Prüferin: Dankeschön Maria. Und jetzt Teil 2: Bildbeschreibung.
 
 
-         ----Teil 2: Bildbeschreibung----
+     ----Teil 2: Bildbeschreibung----
 
 Prüferin: Daniel, Sie haben in einer Zeitschrift ein Foto gefunden. Berichten Sie kurz, was Sie auf dem Foto sehen?
 
-Daniel: Auf dem Foto sehe ich einen Mann und eine Frau, die draußen sind. Sie sitzen an einem Tisch
-2:42
-Auf dem Tisch sind ein Computer, zwei Handys und eine Tasche.
-2:49
-Der Mann hat einen Bart und trägt einen Anzug.
-2:54
-Er hat ein weißes Hemd und eine Krawatte.
-2:58
-Er sieht sehr elegant und gepflegt aus.
-3:03
-Der Mann sieht sehr selbstbewusst und arbeitet am Computer.
-3:09
-Die Frau ist elegant gekleidet und hat eine Brille.
-3:14
-Sie trägt ein schwarzes Kleid.
-3:18
-Sie hat eine braune Handtasche, die zu ihrem Outfit passt.
-3:24
-Sie sieht sehr schick und modisch aus.
-3:28
-Außerdem hat sie ein Notizbuch in der Hand.
-3:33
-Und sie schaut auf den Laptop und sieht ernst und konzentriert aus.
-3:39
-Vielleicht hört sie dem Mann zu oder stellt ihm Fragen.
-3:44
-Das Bild wirkt hell und warm. Ich glaube, es ist Sommer.
-3:51
-Im Hintergrund sieht man einen Brunnen, ein Gebäude und Bäume.
-3:57
-Der Brunnen spritzt Wasser und die Bäume haben grüne Blätter.
-4:03
+Daniel: Auf dem Foto sehe ich einen Mann und eine Frau, die draußen sind. Sie sitzen an einem Tisch. Auf dem Tisch sind ein Computer, zwei Handys und eine Tasche. Der Mann hat einen Bart und trägt einen Anzug. Er hat ein weißes Hemd und eine Krawatte. Er sieht sehr elegant und gepflegt aus. Der Mann sieht sehr selbstbewusst und arbeitet am Computer. Die Frau ist elegant gekleidet und hat eine Brille. Sie trägt ein schwarzes Kleid. Sie hat eine braune Handtasche, die zu ihrem Outfit passt. Sie sieht sehr schick und modisch aus. Außerdem hat sie ein Notizbuch in der Hand. Und sie schaut auf den Laptop und sieht ernst und konzentriert aus. Vielleicht hört sie dem Mann zu oder stellt ihm Fragen. Das Bild wirkt hell und warm. Ich glaube, es ist Sommer. Im Hintergrund sieht man einen Brunnen, ein Gebäude und Bäume. Der Brunnen spritzt Wasser und die Bäume haben grüne Blätter.
+
 Das Thema des Bildes ist Arbeit.
-4:07
-Das Bild zeigt, wie zwei Personen miteinander sprechen und zusammenarbeiten.
-4:14
-Sie benutzen moderne Technologien, um Informationen auszutauschen und zu zeigen.
-4:22
-Das Bild hat eine positive und optimistische Ausstrahlung.
-4:28
-Die Personen haben Spaß an ihrer Arbeit und sie sind glücklich.
-4:35
+
+Das Bild zeigt, wie zwei Personen miteinander sprechen und zusammenarbeiten. Sie benutzen moderne Technologien, um Informationen auszutauschen und zu zeigen. Das Bild hat eine positive und optimistische Ausstrahlung. Die Personen haben Spaß an ihrer Arbeit und sie sind glücklich.
+
 Ich finde das Bild sehr inspirierend und motivierend.
-4:40
+
 Es regt mich an, über meine eigene Arbeit und mein eigenes Leben nachzudenken.
-4:48
+
 Es ermutigt mich, meine Arbeit und mein Leben zu verbessern und zu genießen.
-4:56
-Herzlichen Dank. Letzter Teil, Teil 3: Gemeinsam etwas planen/Dialog.
-5:04
+
+Herzlichen Dank. 
+
+----Teil 3: Gemeinsam etwas planen/Dialog ----
+
+Prüferin: Letzter Teil, Teil 3, Gemeinsam etwas planen/Dialog.
+
 Die Situation: Sie wollen gerne ein Haustier haben.
-5:08
+
 Die Aufgabe: Besprechen Sie, was Sie da tun könnten.
-5:13
+
 Und hier sind einige Notizen:
-5:17
-Welches Tier? Warum? Wo bekommen Sie das Tier? Wie kümmern Sie sich darum? Wann abholen?
-5:27
+
+• Welches Tier? 
+• Warum? 
+• Wo bekommen Sie das Tier? 
+• Wie kümmern Sie sich darum? 
+• Wann abholen?
+
 Wenn Sie bereit sind, fangen Sie damit an.
-5:31
-Hallo Daniel, Wie geht es dir heute?
-5:36
-Hallo Maria, Mir geht es gut, danke, Und dir?
-5:42
-Auch gut, danke. Ich habe eine Frage an dich.
-5:49
-Was denn?
-5:52
-Hast du Lust, ein Haustier zu haben?
-5:56
-Ein Haustier? Das ist ja spannend.
-6:02
-Ja, warum nicht? Ich mag Tiere.
-6:08
-Welches Haustier möchtest du denn haben?
-6:12
-Ich habe an eine Katze gedacht. Ich finde Katzen sehr süß und kuschelig.
-6:21
-Und sie sind auch sehr selbstständig und pflegeleicht.
-6:28
-Was meinst du?
-6:30
-Das stimmt, Katzen sind tolle Tiere.
-6:35
-Aber hast du dir auch überlegt, wie viel Arbeit sie machen?
-6:41
-Natürlich habe ich das.
-6:44
-Ich weiß, dass Katzen Futter, Wasser, ein Katzenklo, Spielzeug und viel Liebe brauchen.
-6:54
-Ich bin bereit, mich um all das zu kümmern.
-7:00
-Das ist schön zu hören.
-7:03
-Aber wie können wir das organisieren, wenn wir arbeiten oder verreisen?
-7:10
-Katzen brauchen auch jemanden, der sich um sie kümmert, wenn wir nicht da sind.
-7:17
-Das ist kein Problem.
-7:20
-Ich habe eine Freundin, die auch eine Katze hat.
-7:26
-Sie hat mir angeboten, unsere Katze zu betreuen, wenn wir mal weg sind. Und wir würden das Gleiche für sie tun.
-7:38
-Was sagst du dazu?
-7:41
-Das klingt nach einer guten Lösung.
-7:45
-Aber was ist mit dem Vermieter? Erlaubt er uns, eine Katze zu halten?
+
+Maria: Hallo Daniel, Wie geht es dir heute?
+
+Daniel: Hallo Maria, Mir geht es gut, danke, Und dir?
+
+Maria: Auch gut, danke. Ich habe eine Frage an dich.
+
+Daniel: Was denn?
+
+Maria: Hast du Lust, ein Haustier zu haben?
+
+Daniel: Ein Haustier? 
+
+Maria: Das ist ja spannend.
+
+Daniel: Ja, warum nicht? Ich mag Tiere.
+
+Maria: Welches Haustier möchtest du denn haben?
+
+Daniel: Ich habe an eine Katze gedacht. Ich finde Katzen sehr süß und kuschelig. Und sie sind auch sehr selbstständig und pflegeleicht. Was meinst du?
+
+Maria: Das stimmt, Katzen sind tolle Tiere. Aber hast du dir auch überlegt, wie viel Arbeit sie machen?
+
+Daniel: Natürlich habe ich das. Ich weiß, dass Katzen Futter, Wasser, ein Katzenklo, Spielzeug und viel Liebe brauchen. Ich bin bereit, mich um all das zu kümmern.
+
+Maria: Das ist schön zu hören. Aber wie können wir das organisieren, wenn wir arbeiten oder verreisen? Katzen brauchen auch jemanden, der sich um sie kümmert, wenn wir nicht da sind.
+
+Daniel: Das ist kein Problem. Ich habe eine Freundin, die auch eine Katze hat. Sie hat mir angeboten, unsere Katze zu betreuen, wenn wir mal weg sind. Und wir würden das Gleiche für sie tun. Was sagst du dazu?
+
+Maria: Das klingt nach einer guten Lösung. Aber was ist mit dem Vermieter? Erlaubt er uns, eine Katze zu halten?
 7:53
 Ja, das erlaubt er. Ich habe ihn schon gefragt.
 8:01
