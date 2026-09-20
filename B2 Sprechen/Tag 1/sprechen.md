@@ -86,66 +86,42 @@ Maria: Das ist schön zu hören. Aber wie können wir das organisieren, wenn wir
 Daniel: Das ist kein Problem. Ich habe eine Freundin, die auch eine Katze hat. Sie hat mir angeboten, unsere Katze zu betreuen, wenn wir mal weg sind. Und wir würden das Gleiche für sie tun. Was sagst du dazu?
 
 Maria: Das klingt nach einer guten Lösung. Aber was ist mit dem Vermieter? Erlaubt er uns, eine Katze zu halten?
-7:53
-Ja, das erlaubt er. Ich habe ihn schon gefragt.
-8:01
-Er hat nichts dagegen, solange die Katze keine Schäden anrichtet oder Lärm macht. Er ist ein netter Mann.
-8:12
-Das ist ja super.
-8:15
-Und wo bekommen wir die Katze? Wollen wir sie kaufen oder adoptieren?
-8:23
-Ich möchte sie lieber adoptieren.
-8:27
-Es gibt so viele Katzen, die ein Zuhause suchen. Ich möchte einer von ihnen eine Chance geben.
-8:38
-Wie findest du das?
-8:41
-Ich finde das auch besser. Eine Katze aus dem Tierheim zu holen ist eine gute Tat.
-8:50
-Was braucht sie eigentlich?
-8:54
-Die Katze braucht ein paar Sachen, wie zum Beispiel ein Katzenklo, ein Katzenbett, eine Katzentoilette,
-9:04
-ein Kratzbaum, ein Halsband, eine Leine, eine Bürste, ein Spielzeug, ein Futter, ein Wasser und eine Tierarztversicherung.
-9:18
-Das sind die wichtigsten Sachen.
-9:22
-Alles klar. Wir müssen auch darauf achten, dass die Katze regelmäßig gespielt und geimpft wird.
-9:32
-Hast du schon eine Vorstellung, wie die Katze aussehen oder heißen soll?
-9:46
-Nicht wirklich. Ich bin aber offen für alles.
-9:59
-Ich möchte nur, dass sie gesund und glücklich ist. Und dass wir uns gut verstehen.
-10:18
-Ja, das ist die Hauptsache. Ich bin mir sicher, dass wir eine tolle Katze finden werden.
-10:38
-Ja, ich freue mich schon sehr auf unsere Katze.
-10:48
-Wann sollen wir sie holen?
-10:55
-Wir sollten sie so bald wie möglich holen.
-11:04
-Je früher wir sie holen, desto schneller können wir uns aneinander gewöhnen.
-11:20
-Und desto schneller können wir uns lieben.
-11:29
-Wir können morgen ins Tierheim gehen und uns eine Katze aussuchen.
-11:42
-Was hältst du davon?
-11:49
-Einverstanden. Ich bin gespannt, welche Katze wir nehmen werden.
-12:04
-Ich bin sicher, dass wir eine tolle Katze haben werden.
-12:15
-Ich bin froh, dass du mit mir ein Haustier haben willst.
-12:27
-Wir werden viel Spaß haben. Bis morgen dann.
-12:40
-Ja, das glaube ich auch. Bis morgen. Tschüss.
-12:56
-Tschüss.
-12:58
-Super, vielen Dank.
+
+Daniel: Ja, das erlaubt er. Ich habe ihn schon gefragt. Er hat nichts dagegen, solange die Katze keine Schäden anrichtet oder Lärm macht. Er ist ein netter Mann.
+
+Maria: Das ist ja super. Und wo bekommen wir die Katze? Wollen wir sie kaufen oder adoptieren?
+
+Daniel: Ich möchte sie lieber adoptieren. Es gibt so viele Katzen, die ein Zuhause suchen. Ich möchte einer von ihnen eine Chance geben. Wie findest du das?
+
+Maria: Ich finde das auch besser. Eine Katze aus dem Tierheim zu holen ist eine gute Tat. Was braucht sie eigentlich?
+
+Daniel: Die Katze braucht ein paar Sachen, wie zum Beispiel ein Katzenklo, ein Katzenbett, eine Katzentoilette, ein Kratzbaum, ein Halsband, eine Leine, eine Bürste, ein Spielzeug, ein Futter, ein Wasser und eine Tierarztversicherung. Das sind die wichtigsten Sachen.
+
+Maria: Alles klar. Wir müssen auch darauf achten, dass die Katze regelmäßig gespielt und geimpft wird. Hast du schon eine Vorstellung, wie die Katze aussehen oder heißen soll?
+
+Daniel: Nicht wirklich. Ich bin aber offen für alles. Ich möchte nur, dass sie gesund und glücklich ist. Und dass wir uns gut verstehen.
+
+Maria: Ja, das ist die Hauptsache. Ich bin mir sicher, dass wir eine tolle Katze finden werden.
+
+Daniel: Ja, ich freue mich schon sehr auf unsere Katze.
+
+Maria: Wann sollen wir sie holen?
+
+Daniel: Wir sollten sie so bald wie möglich holen.
+
+Maria: Je früher wir sie holen, desto schneller können wir uns aneinander gewöhnen. Und desto schneller können wir uns lieben. Wir können morgen ins Tierheim gehen und uns eine Katze aussuchen.
+
+Daniel: Was hältst du davon?
+
+Maria: Einverstanden. Ich bin gespannt, welche Katze wir nehmen werden.
+
+Daniel: Ich bin sicher, dass wir eine tolle Katze haben werden.
+
+Maria: Ich bin froh, dass du mit mir ein Haustier haben willst.
+
+Daniel: Wir werden viel Spaß haben. Bis morgen dann.
+
+Maria: Ja, das glaube ich auch. Bis morgen. Tschüss.
+
+Daniel: Tschüss. Super, vielen Dank.
 
