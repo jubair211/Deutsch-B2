@@ -123,5 +123,5 @@ Daniel: Wir werden viel Spaß haben. Bis morgen dann.
 
 Maria: Ja, das glaube ich auch. Bis morgen. Tschüss.
 
-Daniel: Tschüss. Super, vielen Dank.
+Daniel: Tschüss. Super, vielen Dank. 
 
