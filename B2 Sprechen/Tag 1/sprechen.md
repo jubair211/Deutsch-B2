@@ -111,7 +111,7 @@ Daniel: Wir sollten sie so bald wie möglich holen.
 
 Maria: Je früher wir sie holen, desto schneller können wir uns aneinander gewöhnen. Und desto schneller können wir uns lieben. Wir können morgen ins Tierheim gehen und uns eine Katze aussuchen.
 
-Daniel: Was hältst du davon?
+Daniel: Was hältst du davon? 
 
 Maria: Einverstanden. Ich bin gespannt, welche Katze wir nehmen werden.
 
